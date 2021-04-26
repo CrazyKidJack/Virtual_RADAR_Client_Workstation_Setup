@@ -40,3 +40,6 @@ I have no interest in coding an option for TeamSpeak. It is an old, ugly, and li
 
 **VATSYS and other RADAR Clients**
 The ability to launch other RADAR Clients may be a future release.
+
+**BETTER USER INTERFACE**
+That is a lot of work. I welcome someone to use my concept to create a better UI-Based program.
