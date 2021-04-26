@@ -15,10 +15,8 @@ This file has the ability to open all of the following depending on certain inpu
 ---
 
 The following features are available only to vZLC ARTCC Members with access to the vZLC Dropbox:
-
-#ZLC Lowest Usable Flight Level Aid (another BATCH File)
-
-#Updates vERAM and vSTARS NAVDATA to the most up to date AIRAC Cycle automatically and for free.
+1. ZLC Lowest Usable Flight Level Aid (another BATCH File)
+2. Updates vERAM and vSTARS NAVDATA to the most up to date AIRAC Cycle automatically and for free.
 
 ---
 
